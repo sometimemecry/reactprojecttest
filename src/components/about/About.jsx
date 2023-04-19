@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            lorem ipsum dolor sit amet, consectetur adip
+          I am a Junior Software Developer program graduate from Generation Thailand, equipped with strong technical skills in web development using React, Express, MongoDB In addition, I have two years of experience as a food delivery rider, which has enhanced my communication skills and problem-solving abilities. I am currently seeking a Frontend Developer position where I can apply my technical expertise and prior experience to contribute to the success of the team.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
